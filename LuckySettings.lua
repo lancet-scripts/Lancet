@@ -1,8 +1,8 @@
 local Config = {
     TPStepDistance = 45,
     TPDelay = 0,
-    GrabRadius = 46.5,
-    Offset = CFrame.new(-3, -3, -3),
+    GrabRadius = 44,
+    Offset = CFrame.new(0, -1.5, 3),
     BlacklistTime = 12,
     PostGrabWait = 0.05,
     ChunkLoadWait = 0.4,
@@ -28,3 +28,4 @@ local Config = {
 
 return Config
 -- forgot about it
+-- lolll
