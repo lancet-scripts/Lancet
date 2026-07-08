@@ -4,7 +4,7 @@ local Config = {
     GrabRadius = 30,
     Offset = CFrame.new(0, -1.5, 3),
     BlacklistTime = 12,
-    PostGrabWait = 0.4,
+    PostGrabWait = 0,
     ChunkLoadWait = 0.65,
     SpiralSpacing = 150,
     MaxSpiralRadius = 3000,
@@ -27,3 +27,4 @@ local Config = {
 }
 
 return Config
+-- lol
