@@ -1,7 +1,7 @@
 local Config = {
-    TPStepDistance = 30,
+    TPStepDistance = 45,
     TPDelay = 0,
-    GrabRadius = 30,
+    GrabRadius = 45,
     Offset = CFrame.new(0, -1.5, 3),
     BlacklistTime = 12,
     PostGrabWait = 0,
